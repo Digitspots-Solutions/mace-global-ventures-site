@@ -1,0 +1,42 @@
+{
+  "businessName": "Mace Global Ventures",
+  "industry": "Financial Services & Trading",
+  "tone": "professional and trustworthy",
+  "tagline": "Your Trusted Partner for Trading and Fast POS Services in Abuja",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Mace Global Ventures - Your one-stop solution for reliable trading services and lightning-fast POS transactions in the heart of Abuja. Located at Garki's Ultra-Modern Market, we provide secure, efficient financial services that keep your business moving forward.",
+      "imagePrompt": "Professional Nigerian POS terminal and trading desk setup in a modern market shop, bright and welcoming atmosphere, customers conducting transactions, Ultra-Modern Market Garki Abuja ambiance, clean organized counter with digital displays, warm lighting, hyperrealistic photography",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Mace Global Ventures is a trusted name in trading and POS services, strategically located at Shop 137, Obasanjo Block, Ultra-Modern Market, Garki, Abuja. We serve individuals, businesses, and traders across AMAC with fast, reliable, and secure financial transactions. Our commitment is to provide seamless service that helps our customers conduct business with confidence and convenience. Whether you need quick cash withdrawals, deposits, transfers, or trading support, our experienced team is here to serve you with professionalism and efficiency.",
+      "imagePrompt": "Interior of a well-organized Nigerian trading and POS business, professional staff assisting customers, modern Ultra-Modern Market Garki environment, glass counter with POS machines, trading materials neatly displayed, natural lighting through market windows, authentic Nigerian business setting, documentary-style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**POS Services**: Fast and secure cash withdrawals, deposits, and transfers with minimal transaction fees. We support all major Nigerian banks and ensure your transactions are processed instantly.\n\n**Trading Services**: We facilitate buying and selling of goods and commodities, connecting traders with reliable supply chains across Abuja and beyond.\n\n**Money Transfer**: Quick and secure fund transfers to any bank account in Nigeria. Send money to family, suppliers, or business partners with ease.\n\n**Business Support**: We provide consultation and support for small business owners looking to optimize their financial operations and trading activities.\n\n**Bulk Transactions**: Special rates and dedicated service for businesses requiring high-volume POS transactions and regular trading operations.",
+      "imagePrompt": "Collage of Nigerian financial services in action: POS machine processing payment, hands exchanging cash, trading goods on display, mobile money transfer, busy market trading scene, Ultra-Modern Market Garki Abuja backdrop, vibrant colors, professional service photography, multiple activities showing business diversity",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Experience fast, reliable service at Mace Global Ventures. We're open daily to serve you.\n\n**Location**: Shop 137, Obasanjo Block, Ultra-Modern Market, Garki, Abuja, AMAC, Nigeria\n\n**Phone**: 0803 305 2785\n\n**Business Hours**: Monday - Saturday: 8:00 AM - 6:00 PM | Sunday: 10:00 AM - 4:00 PM\n\nFor inquiries or to schedule bulk transactions, call us or visit our shop. Our friendly team is always ready to assist you with professional service and competitive rates.",
+      "imagePrompt": "Exterior view of Ultra-Modern Market Garki Abuja, Obasanjo Block entrance, bustling market atmosphere, Nigerian shoppers and traders, clear signage, warm welcoming storefront, daytime photography, authentic Abuja market scene, professional commercial photography",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0803 305 2785",
+    "email": "",
+    "address": "Shop 137, Obasanjo Block, Ultra-Modern Market, Garki, Abuja, AMAC, Nigeria",
+    "whatsapp": "https://wa.me/2348033052785"
+  }
+}
